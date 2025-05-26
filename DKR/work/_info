@@ -1,0 +1,53 @@
+m255
+K3
+13
+cModel Technology
+dC:\altera\91\modelsim_ase\examples
+valb
+IeOj<<BGOomRLI@]1E>h773
+V2X4CH0S1_7ZT5?5A;4l[_2
+Z0 dD:\DKR
+w1748267161
+8D:/DKR/alb.v
+FD:/DKR/alb.v
+L0 2
+Z1 OV;L;6.5b;42
+r1
+31
+Z2 !s102 -nocovercells
+Z3 o-work work -nocovercells -O0
+!s100 2IXN^j;T<Q;XIemAk]4b]2
+!s85 0
+!s101 -O0
+valb_tb
+IfZJURahG0KhDe_1dQ6NGn0
+V?AiDF<aBfZAb[UE[DOTZe0
+Z4 dD:\DKR
+w1748263706
+8D:/DKR/alb_tb.v
+FD:/DKR/alb_tb.v
+L0 3
+R1
+r1
+31
+R2
+R3
+!s100 ;LkR<nCA3E@6hRc^kP5>E0
+!s85 0
+!s101 -O0
+vreference_model
+!s100 Di119HFP3Me3^g;_Mc8_@3
+Incz6kIk7VTcAjMaDidY3U2
+VZ:a[VVE215R0:gD<4`6EQ2
+R4
+w1748263946
+8D:/DKR/reference_model.v
+FD:/DKR/reference_model.v
+L0 1
+R1
+r1
+!s85 0
+31
+!s101 -O0
+R2
+R3
