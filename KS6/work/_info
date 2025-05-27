@@ -1,0 +1,69 @@
+m255
+K3
+13
+cModel Technology
+dC:\altera\91\modelsim_ase\examples
+vbitsum
+Ifj@Q3]hO;oU;_U5?e@zbK1
+Vi9NGmz9LhHK1Bn8hXVK7o2
+Z0 dD:\KS6
+Z1 w1748342622
+Z2 8D:/KS6/my_sum.v
+Z3 FD:/KS6/my_sum.v
+L0 17
+Z4 OV;L;6.5b;42
+r1
+31
+Z5 !s102 -nocovercells
+Z6 o-work work -nocovercells -O0
+!s100 oUd;[SgTVnYS5f9?EJCE_0
+!s85 0
+!s101 -O0
+vmy_sum
+IQ5e>;6KD`gEP7X:F8AJ_C1
+V>AYa<]z<eWj:6=M96`WNj3
+Z7 dD:\KS6
+R1
+R2
+R3
+L0 1
+R4
+r1
+31
+R5
+R6
+!s100 BC]E<DziWQ8fC<bCgHo]K2
+!s85 0
+!s101 -O0
+vref_sum
+!s100 ?naUfOkE76^So>>GTY?OP2
+I0JcZJYW`[LRnQM@mKQ=Xi2
+V2OO;EahzC8PXB3K:FbSOT0
+R7
+w1748342837
+8D:/KS6/ref_sum.v
+FD:/KS6/ref_sum.v
+L0 1
+R4
+r1
+!s85 0
+31
+!s101 -O0
+R5
+R6
+vtest_sum
+IO:U:?<i5Q1EEa0ZNND_MF1
+V?[S@XOc7;P58OizZje^Po0
+R7
+w1748342790
+8D:/KS6/tb_my_sum.v
+FD:/KS6/tb_my_sum.v
+L0 1
+R4
+r1
+31
+R5
+R6
+!s100 :SY`J<DQk?F1zefV>Z^ST2
+!s85 0
+!s101 -O0

@@ -1,0 +1,69 @@
+m255
+K3
+13
+cModel Technology
+dC:\altera\91\modelsim_ase\examples
+vref_sum_7r
+!s100 KboUTAg3eMOc=nGX:e^PZ0
+I6Db8RL0nUfEL]AKGhj_883
+V;N;:NIgdRaYnm=4Tz]3cC2
+Z0 dD:\KS6\ks6_samostiyna
+w1748367541
+8D:/KS6/ks6_samostiyna/ref_sum_7r.v
+FD:/KS6/ks6_samostiyna/ref_sum_7r.v
+L0 1
+Z1 OV;L;6.5b;42
+r1
+!s85 0
+31
+!s101 -O0
+Z2 !s102 -nocovercells
+Z3 o-work work -nocovercells -O0
+vsum_1r
+I^1[RF5MSaCIC72M5Co2K<1
+VCfBWP>[Z8B73b1;GDAa?Q3
+Z4 dD:\KS6\ks6_samostiyna
+w1748367651
+8D:/KS6/ks6_samostiyna/sum_1r.v
+FD:/KS6/ks6_samostiyna/sum_1r.v
+L0 1
+R1
+r1
+31
+R2
+R3
+!s100 Z_ng0]4jd2[DnakT]8jdD2
+!s85 0
+!s101 -O0
+vsum_7r
+IoClGSH::Ye1DJe>YE;3Um1
+V89Wj6dN[7nDiIX=06dY[B0
+R4
+w1748348198
+8D:/KS6/ks6_samostiyna/sum_7r.v
+FD:/KS6/ks6_samostiyna/sum_7r.v
+L0 1
+R1
+r1
+31
+R2
+R3
+!s100 <]o9M^VV3e=0HBR6Cl86I1
+!s85 0
+!s101 -O0
+vtb_sum_7r
+ILH_=LMoc68?h[2CI4dI_]1
+V^zQcJj_MX2FWSmXA[znDQ3
+R4
+w1748369106
+8D:/KS6/ks6_samostiyna/tb_sum_7r.v
+FD:/KS6/ks6_samostiyna/tb_sum_7r.v
+L0 1
+R1
+r1
+31
+R2
+R3
+!s100 d]fzKZE4]GVjikgRjz=1_3
+!s85 0
+!s101 -O0

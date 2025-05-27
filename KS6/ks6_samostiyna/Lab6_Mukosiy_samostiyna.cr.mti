@@ -1,0 +1,29 @@
+D:/KS6/ks6_samostiyna/tb_sum_7r.v {1 {vlog -work work -nocovercells D:/KS6/ks6_samostiyna/tb_sum_7r.v
+Model Technology ModelSim ALTERA vlog 6.5b Compiler 2009.10 Oct  1 2009
+-- Compiling module tb_sum_7r
+
+Top level modules:
+	tb_sum_7r
+
+} {} {}} D:/KS6/ks6_samostiyna/sum_1r.v {1 {vlog -work work -nocovercells D:/KS6/ks6_samostiyna/sum_1r.v
+Model Technology ModelSim ALTERA vlog 6.5b Compiler 2009.10 Oct  1 2009
+-- Compiling module sum_1r
+
+Top level modules:
+	sum_1r
+
+} {} {}} D:/KS6/ks6_samostiyna/ref_sum_7r.v {1 {vlog -work work -nocovercells D:/KS6/ks6_samostiyna/ref_sum_7r.v
+Model Technology ModelSim ALTERA vlog 6.5b Compiler 2009.10 Oct  1 2009
+-- Compiling module ref_sum_7r
+
+Top level modules:
+	ref_sum_7r
+
+} {} {}} D:/KS6/ks6_samostiyna/sum_7r.v {1 {vlog -work work -nocovercells D:/KS6/ks6_samostiyna/sum_7r.v
+Model Technology ModelSim ALTERA vlog 6.5b Compiler 2009.10 Oct  1 2009
+-- Compiling module sum_7r
+
+Top level modules:
+	sum_7r
+
+} {} {}}

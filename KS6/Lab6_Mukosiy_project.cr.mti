@@ -1,0 +1,23 @@
+D:/KS6/ref_sum.v {1 {vlog -work work -nocovercells D:/KS6/ref_sum.v
+Model Technology ModelSim ALTERA vlog 6.5b Compiler 2009.10 Oct  1 2009
+-- Compiling module ref_sum
+
+Top level modules:
+	ref_sum
+
+} {} {}} D:/KS6/my_sum.v {1 {vlog -work work -nocovercells D:/KS6/my_sum.v
+Model Technology ModelSim ALTERA vlog 6.5b Compiler 2009.10 Oct  1 2009
+-- Compiling module my_sum
+-- Compiling module bitsum
+
+Top level modules:
+	my_sum
+
+} {} {}} D:/KS6/tb_my_sum.v {1 {vlog -work work -nocovercells D:/KS6/tb_my_sum.v
+Model Technology ModelSim ALTERA vlog 6.5b Compiler 2009.10 Oct  1 2009
+-- Compiling module test_sum
+
+Top level modules:
+	test_sum
+
+} {} {}}
