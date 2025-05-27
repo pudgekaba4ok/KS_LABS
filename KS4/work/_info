@@ -1,0 +1,54 @@
+m255
+K3
+13
+cModel Technology
+dC:\altera\91\modelsim_ase\examples
+vEx2_OR
+IBHF=GGAcbBnioMgAGLo`Q0
+VYfliPh^TfB6O=FTZ0CUe30
+Z0 dD:\KS4
+w1748249639
+8D:/KS4/Ex2_Mukosiy_OR.v
+FD:/KS4/Ex2_Mukosiy_OR.v
+L0 1
+Z1 OV;L;6.5b;42
+r1
+31
+Z2 !s102 -nocovercells
+Z3 o-work work -nocovercells -O0
+n@ex2_@o@r
+!s100 nRDmkFVK0BEch8[H[GDob0
+!s85 0
+!s101 -O0
+vnand_and
+!s100 =VGzg?>N5d5b2B^D?N0e62
+IJ8NfC7mdK?1fCFVcOW4C31
+VTP=HVMbFA12m;]gP3Z0X42
+Z4 dD:\KS4
+w1748258335
+8D:/KS4/Mukosiy_NAND_AND.v
+FD:/KS4/Mukosiy_NAND_AND.v
+L0 1
+R1
+r1
+!s85 0
+31
+!s101 -O0
+R2
+R3
+vnand_nand
+IYOW>PzK:FUFm3e^W;55Ia3
+VAkLOZlYC4?ak>_K4W9dbB0
+R4
+w1748254126
+8D:/KS4/Mukosiy_NAND.v
+FD:/KS4/Mukosiy_NAND.v
+L0 1
+R1
+r1
+31
+R2
+R3
+!s100 ?7GNTfSg:Fo[:UGC_RViN0
+!s85 0
+!s101 -O0

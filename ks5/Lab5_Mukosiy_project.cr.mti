@@ -1,0 +1,8 @@
+D:/ks5/tb_multiplex8_1.v {1 {vlog -work work -nocovercells D:/ks5/tb_multiplex8_1.v
+Model Technology ModelSim ALTERA vlog 6.5b Compiler 2009.10 Oct  1 2009
+-- Compiling module tb_multiplex8_1
+
+Top level modules:
+	tb_multiplex8_1
+
+} {} {}}

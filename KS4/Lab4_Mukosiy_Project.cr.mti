@@ -1,0 +1,15 @@
+D:/KS4/Mukosiy_NAND_AND.v {1 {vlog -work work -nocovercells D:/KS4/Mukosiy_NAND_AND.v
+Model Technology ModelSim ALTERA vlog 6.5b Compiler 2009.10 Oct  1 2009
+-- Compiling module nand_and
+
+Top level modules:
+	nand_and
+
+} {} {}} D:/KS4/Ex2_Mukosiy_OR.v {1 {vlog -work work -nocovercells D:/KS4/Ex2_Mukosiy_OR.v
+Model Technology ModelSim ALTERA vlog 6.5b Compiler 2009.10 Oct  1 2009
+-- Compiling module Ex2_OR
+
+Top level modules:
+	Ex2_OR
+
+} {} {}}

@@ -1,0 +1,37 @@
+m255
+K3
+13
+cModel Technology
+dC:\altera\91\modelsim_ase\examples
+vmultiplex8_1
+IWPM?_V;UXAMz2omXEUf>g3
+Vm]bEV9fXJiooiHAi`7ZhK0
+Z0 dD:\ks5
+w1748334244
+8D:/ks5/multiplex8_1.v
+FD:/ks5/multiplex8_1.v
+L0 1
+Z1 OV;L;6.5b;42
+r1
+31
+Z2 !s102 -nocovercells
+Z3 o-work work -nocovercells -O0
+!s100 K9NL`6NF_E?NXIi0TbD?b1
+!s85 0
+!s101 -O0
+vtb_multiplex8_1
+!s100 T@5Hhf8;Qj6OmMLKi]ZoG0
+Ib`iX`I`;GJW4Ahz94;UaU3
+VJon_NnUYJ0fX^3l2[Nl=@3
+Z4 dD:\ks5
+w1748336453
+8D:/ks5/tb_multiplex8_1.v
+FD:/ks5/tb_multiplex8_1.v
+L0 3
+R1
+r1
+!s85 0
+31
+!s101 -O0
+R2
+R3
